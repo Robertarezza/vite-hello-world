@@ -14,16 +14,18 @@ export default {
   </script>
   
   <template>
-     
+     <div>
       <img :src="getImagePath(image)" alt="" />
-
+     </div>
   </template>
   
   <style>
- 
+ div {
+    text-align: center;
+ }
   
    img {
-    width: 100%;
+    width: 60%;
   }
   
   

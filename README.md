@@ -5,4 +5,4 @@
 
 ## Bonus: 
 
-- [ ] aggiungere componente banner, utilizzando path dinamico dell'immagine
+- [x] aggiungere componente banner, utilizzando path dinamico dell'immagine
